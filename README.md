@@ -1,16 +1,14 @@
-## Hi there 👋
+💫 About Me:
+I’m Renesha Sagar,an adventurous learner who enjoys exploring technology as much as exploring the world, passionate about technology and its limitless possibilities. From debugging code to building scalable solutions, and from AI/ML innovations to strengthening cybersecurity, I thrive on solving problems and adapting to new challenges. Always eager to learn, grow, and contribute to meaningful opportunities in the ever-evolving tech landscape with my creativity and passion alongside my love for travelling , dancing ,singing and badminton.
 
-<!--
-**ReneshaSagar/ReneshaSagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+Instagram [LinkedIn](https://linkedin.com/in/Renesha Sagar) email
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+C++ HTML5 JavaScript Python Cloudflare Firebase Google Cloud FastAPI Express.js JWT NPM NodeJS OpenCV Socket.io Three js TailwindCSS Firebase MongoDB MySQL Xbox Adobe After Effects Adobe Photoshop Canva Figma NumPy Pandas Matplotlib PyTorch TensorFlow scikit-learn nVIDIA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+

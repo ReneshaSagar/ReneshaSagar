@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://github.com/ReneshaSagar">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=RENESHA+SAGAR;AI%2FData+Enthusiast;IOT+%2F+Digital+Circuits" alt="Typing SVG" />
+  </a>
+</div>
+
 # 💫 About Me:
 I’m Renesha Sagar,an adventurous learner who enjoys exploring technology as much as exploring the world, passionate about technology and its limitless possibilities. From debugging code to building scalable solutions, and from AI/ML innovations to strengthening cybersecurity, I thrive on solving problems and adapting to new challenges. Always eager to learn, grow, and contribute to meaningful opportunities in the ever-evolving tech landscape with my creativity and passion alongside my love for travelling , dancing ,singing and badminton.
 
